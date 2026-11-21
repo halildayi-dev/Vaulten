@@ -77,7 +77,7 @@ DOC-002 → REPO-001 → REPO-002 → SETUP-001 → SETUP-002 → SETUP-003 → 
 - **Security Notes:** Confirm that no security decision in `research.md` or `plan.md` exists only in a deleted file.
 
 ### REPO-002: Establish Git Baseline
-- **Status:** REVIEW
+- **Status:** DONE
 - **Dependencies:** REPO-001
 - **Objective:** Establish a clean Git baseline before implementation.
 - **Scope:**
