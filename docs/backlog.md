@@ -121,7 +121,7 @@ DOC-002 → REPO-001 → REPO-002 → SETUP-001 → SETUP-002 → SETUP-003 → 
 - **Security Notes:** No remote scripts, fonts, or assets. Devtools are disabled in release builds.
 
 ### SETUP-002: Configure Styling Foundation
-- **Status:** TODO
+- **Status:** DONE
 - **Dependencies:** SETUP-001
 - **Objective:** Configure Tailwind CSS and the project's design tokens.
 - **Scope:**
