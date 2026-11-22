@@ -9,3 +9,6 @@ node_modules/
 target/
 dist/
 .claude/settings.local.json
+
+# Tauri generated schemas
+src-tauri/gen/

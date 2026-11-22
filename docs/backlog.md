@@ -99,7 +99,7 @@ DOC-002 → REPO-001 → REPO-002 → SETUP-001 → SETUP-002 → SETUP-003 → 
 ## Phase 3 — Application Foundation
 
 ### SETUP-001: Initialize Tauri and React Project
-- **Status:** TODO
+- **Status:** DONE
 - **Dependencies:** REPO-002
 - **Objective:** Create the minimal desktop application foundation.
 - **Scope:**

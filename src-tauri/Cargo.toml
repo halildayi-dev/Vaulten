@@ -1,0 +1,14 @@
+[package]
+name = "vaulten"
+version = "0.1.0"
+description = "Vaulten local-first password manager"
+edition = "2021"
+
+[lib]
+name = "vaulten_lib"
+
+[build-dependencies]
+tauri-build = { version = "2.7", features = [] }
+
+[dependencies]
+tauri = { version = "2.12", features = [] }
