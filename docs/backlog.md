@@ -138,7 +138,7 @@ DOC-002 → REPO-001 → REPO-002 → SETUP-001 → SETUP-002 → SETUP-003 → 
 - **Security Notes:** Font is bundled from an npm package, not fetched remotely.
 
 ### SETUP-003: Configure Rust Dependencies and Toolchain
-- **Status:** TODO
+- **Status:** DONE
 - **Dependencies:** SETUP-001
 - **Objective:** Establish the Rust dependency and toolchain foundation.
 - **Scope:**
